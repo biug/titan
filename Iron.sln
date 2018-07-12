@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Iron", "Iron\Iron.vcxproj", "{69A5151C-4ABF-4B07-B3C4-A28A31733D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Debug|ARM.ActiveCfg = Debug|ARM
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Debug|ARM.Build.0 = Debug|ARM
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Debug|Win32.Build.0 = Debug|Win32
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Release|ARM.ActiveCfg = Release|ARM
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Release|ARM.Build.0 = Release|ARM
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Release|Win32.ActiveCfg = Release|Win32
+		{69A5151C-4ABF-4B07-B3C4-A28A31733D64}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FED58D-C23D-4A4A-91FC-80348876836A}
+	EndGlobalSection
+EndGlobal
